@@ -1,3 +1,12 @@
+Tech
+--------------------------------------------
+● MongoDB
+
+●Tailwindcss
+
+●JavaScript
+
+
 # Photo-upload-website-with-Node.js-HTML-and-CSS
 Frontend and Backend 
 ![1](https://user-images.githubusercontent.com/93832227/219340618-5926823f-6e33-47d9-8c88-06faab518a94.png)
