@@ -1,3 +1,5 @@
+git clone https://github.com/tunactnkya/Photo-upload-website-with-Node.js-HTML-and-CSS
+
 Tech
 --------------------------------------------
 ● MongoDB
@@ -5,6 +7,10 @@ Tech
 ●Tailwindcss
 
 ●JavaScript
+
+● HTML
+
+● CSS
 
 
 # Photo-upload-website-with-Node.js-HTML-and-CSS
